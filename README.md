@@ -6,8 +6,8 @@
 :heavy_check_mark: Acredito que trabalho é sobre servir seres humanos<br>
 <div>
   
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=saulomateusvieira&show_icons=true&theme=dark">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=saulomateusvieira&show_icons=true&theme=merko">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=merko">
   
  <br><div >
   <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
