@@ -4,7 +4,7 @@
 :bicyclist: Gosto de tocar violão e andar de bicicleta <br>
 :dart: Apaixonado por comunicar visualmente <br>
 :heavy_check_mark: Acredito que trabalho é sobre servir seres humanos<br>
-:computer: Aprendendo HTML, CSS, Javascript, GIT e JAVA no Programa Ford <Enter> SENAI
+:computer: Aprendendo HTML, CSS, Javascript, GIT e JAVA no Programa Ford &gtEnter&lt SENAI
 <div>
   
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=saulomateusvieira&show_icons=true&theme=merko">
